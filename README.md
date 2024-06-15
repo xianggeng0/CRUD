@@ -1,5 +1,5 @@
 ![image](https://github.com/xianggeng0/CRUD/assets/143009989/b69d2007-e5bc-4322-a1e6-8447055af74a)
-#### 登录，没密码 （http://localhost:3000/Login）
+#### 登录，任意密码都行 （http://localhost:3000/Login）
 
 # API文档
 
